@@ -1,0 +1,19 @@
+body {
+	padding-top: 70px;
+	background: url(https://img.glyphs.co/img?src=aHR0cHM6Ly9zMy5tZWRpYWxvb3QuY29tL3Jlc291cmNlcy9TZWFtbGVzcy1JY29uLVBhdHRlcm5zLTItUHJldmlldy0xYS5qcGc&q=90&enlarge=true&h=1036&w=1600);
+}
+
+.jumbotron {
+	color:#2c3e50;
+	background: #ecf0f1;
+}
+
+.navbar-inverse {
+	background: #2c3e50;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
+.navbar-inverse .navbar-brand {
+	color: white;
+}
